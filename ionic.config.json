@@ -1,0 +1,7 @@
+{
+  "name": "ionicBiometricAuth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
